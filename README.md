@@ -1,3 +1,4 @@
 Case Study for interview
 
-note:install dependencies after cloning the repository:composer install
+-->install dependencies after cloning the repository:composer install
+-->and file.csv and .env with CSV_FILE_PATH
