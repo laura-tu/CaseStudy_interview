@@ -1,0 +1,13 @@
+{
+    "require": {
+        "google/cloud-language": "^0.32.6",
+        "vlucas/phpdotenv": "^5.6",
+        
+        "php-parallel-lint/php-console-color": "^1.0"
+     
+        
+    },
+    "require-dev": {
+        "php-parallel-lint/php-console-highlighter": "0.*"
+    }
+}
